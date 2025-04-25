@@ -100,7 +100,7 @@ class App extends Component {
           />
           <ProtectedRoute exact path="/cart" component={Cart} />
           <Route path="/not-found" component={NotFound} />
-          <Redirect to="not-found" />
+          <Redirect to="/not-found" />
         </Switch>
       </CartContext.Provider>
     )
