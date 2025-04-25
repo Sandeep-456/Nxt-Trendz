@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nxt-Trendz/static/css/main.6699bc24.chunk.css",
+    "main.js": "/Nxt-Trendz/static/js/main.7203f694.chunk.js",
+    "main.js.map": "/Nxt-Trendz/static/js/main.7203f694.chunk.js.map",
+    "runtime-main.js": "/Nxt-Trendz/static/js/runtime-main.c139ff0a.js",
+    "runtime-main.js.map": "/Nxt-Trendz/static/js/runtime-main.c139ff0a.js.map",
+    "static/js/2.ac3d5444.chunk.js": "/Nxt-Trendz/static/js/2.ac3d5444.chunk.js",
+    "static/js/2.ac3d5444.chunk.js.map": "/Nxt-Trendz/static/js/2.ac3d5444.chunk.js.map",
+    "index.html": "/Nxt-Trendz/index.html",
+    "static/css/main.6699bc24.chunk.css.map": "/Nxt-Trendz/static/css/main.6699bc24.chunk.css.map",
+    "static/js/2.ac3d5444.chunk.js.LICENSE.txt": "/Nxt-Trendz/static/js/2.ac3d5444.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c139ff0a.js",
+    "static/js/2.ac3d5444.chunk.js",
+    "static/css/main.6699bc24.chunk.css",
+    "static/js/main.7203f694.chunk.js"
+  ]
+}
