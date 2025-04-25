@@ -1,0 +1,51 @@
+.summary-bg-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+.summary-card {
+  width: 25%;
+}
+.summary-total {
+  color: #616e7c;
+  font-size: 20px;
+  line-height: 0;
+}
+.total-amount {
+  color: #171f46;
+  font-size: 23px;
+}
+.order-count {
+  color: #616e7c;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.checkout-btn {
+  background-color: #0b69ff;
+  color: #fff;
+  font-size: 18px;
+  width: 100%;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+}
+@media screen and (max-width: 768px) {
+  .summary-card {
+    width: 50%;
+  }
+  .summary-total {
+    font-size: 13px;
+  }
+  .total-amount {
+    font-size: 15px;
+  }
+  .order-count {
+    font-size: 10px;
+  }
+  .checkout-btn {
+    font-size: 10px;
+    height: 30px;
+    width: 90%;
+  }
+}
